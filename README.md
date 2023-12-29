@@ -1,4 +1,4 @@
-# IMCCalculadora
+# BMI Calculator/ IMC Calculadora
 
 BMI Calculator was an app I developed to take my first steps with Android development. I participated in the 10D challenge in the DevSpace community and managed to start from ZERO. 
 
