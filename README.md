@@ -3,34 +3,39 @@
 BMI Calculator was an app I developed to take my first steps with Android development. I participated in the 10D challenge in the DevSpace community and managed to start from ZERO. 
 
 
+## 🛠️ Tecnologias Utilizadas
+
+Kotlin 💻 Activity para host de telas 📱
+
+ViewGroup:
+RelativeLayout 🖼️, LinearLayout 🔲
+
+Componentes de UI:
+TextView 📝, EditText ✍️ , Button 🔘
+
+Toast para exibição de mensagens 📢, Intent Explícita para abrir a segunda Activity 🔄
+
+FindViewById para acessar componentes de UI 🔍, String Resources para concatenação de textos 🔗
+
+
+## 📋 TODO
+Melhorar a estilização do app 🎨
+
+
+## 👩‍💻 Autor
+Jéssica Máximo de Souza
+
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/imc_healthy.png" width="260">&emsp;<img src="/results/imc_healthy1.png" width="260">&emsp;<img src="/results/imc_healthy2.png" width="260">
+<img src="/results/imc_healthy.png" width="260">&emsp;
 
-## Tecnologias
-* Kotlin
-* Activity para host de telas
-* ViewGroup
-    * RelativeLayout
-    * LinearLayout
-- Components de UI
-    - TextView
-    - EditText
-    - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+<img src="/results/imc_healthy1.png" width="260">&emsp;
 
+<img src="/results/imc_healthy2.png" width="260">
 
-### TODO
-- Melhorar a estilização do app
-
-## Author
-Jéssica Máximo de Souza (https://www.linkedin.com/in/j%C3%A9ssica-m%C3%A1ximo-b65467115/)
-
-## License
-```
+📜 Licença
+sql
+Copiar código
 The MIT License (MIT)
 
 Copyright (c) 2021 Roque Buarque Junior
@@ -51,4 +56,3 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
